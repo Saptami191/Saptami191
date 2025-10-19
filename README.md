@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning ** Machine Learning, and System Design**
 - 👯 I’m collaborating on **Stacklt - Minimal Q&A Forum Platform**
 - 📫 Reach me at: **biswassaptami191@gmail.com**
-- 💻 My Portfolio: [https://saptami-biswas-9vmb3nb.gamma.site/](https://saptami-biswas-9vmb3nb.gamma.site/)
+
 - ✍️ My Medium Articles: [https://medium.com/@biswassaptami191](https://medium.com/@biswassaptami191)
 
 ---
