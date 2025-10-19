@@ -45,6 +45,6 @@
   <a href="https://www.linkedin.com/in/saptami-biswas"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white"></a>
   <a href="https://github.com/Saptami191"><img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white"></a>
   <a href="https://medium.com/@biswassaptami191"><img src="https://img.shields.io/badge/Medium-000000?style=flat&logo=medium&logoColor=white"></a>
-  <a href="https://saptami-biswas-9vmb3nb.gamma.site/"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=google-chrome&logoColor=white"></a>
+ 
   <a href="https://x.com/SaptamiBis76657"><img src="https://img.shields.io/badge/X-1DA1F2?style=flat&logo=twitter&logoColor=white"></a>
 </p>
