@@ -18,7 +18,7 @@ I am a **backend-focused full-stack developer** who enjoys building scalable sys
 - 👩🏻‍💻 &nbsp; Most of my projects are on [GitHub](https://github.com/Saptami191?tab=repositories)  
 - ✍️ &nbsp; I write technical blogs on [Medium](https://medium.com/@biswassaptami191)  
 - 💬 &nbsp; Ask me about backend systems, APIs, or ML pipelines  
-- 📫 &nbsp; Reach me on [LinkedIn](https://www.linkedin.com/in/saptami-biswas)  
+- 📫 &nbsp; Reach me on [LinkedIn]([https://www.linkedin.com/in/saptami-biswas](https://www.linkedin.com/in/saptami-biswas-a11205292/))  
 - 📝 &nbsp; (Add your resume link here when ready — don’t share a random one)
 
 <br>
@@ -37,21 +37,25 @@ I am a **backend-focused full-stack developer** who enjoys building scalable sys
 ### 📊 GitHub Stats
 
 <p align="center">
+  <!-- Main stats card -->
   <img width="48%" 
-       src="https://github-readme-stats.vercel.app/api?username=Saptami191&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" 
+       src="https://github-stats.omsimos.com/api?username=Saptami191&show_icons=true&theme=radical&count_private=true"
        alt="Saptami's GitHub Stats" />
 
-  <img width="48%" 
-       src="https://github-readme-streak-stats.vercel.app/?user=Saptami191&theme=radical&hide_border=true" 
+  <!-- Contribution streak -->
+  <img width="48%"
+       src="https://github-stats.omsimos.com/api/streak?username=Saptami191&theme=radical"
        alt="GitHub Streak" />
 </p>
 
 <p align="center">
+  <!-- Top languages -->
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saptami191&layout=compact&theme=radical&hide_border=true&count_private=true" 
+    src="https://github-stats.omsimos.com/api/top-langs?username=Saptami191&theme=radical&layout=compact"
     width="400px"
     alt="Top Languages" />
 </p>
+
 
 
 ### 🛠️ My Projects
