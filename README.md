@@ -34,41 +34,9 @@ I am a **backend-focused full-stack developer** who enjoys building scalable sys
 
 <br>
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <!-- Main stats card -->
-  <img width="48%" 
-       src="https://github-stats.omsimos.com/api?username=Saptami191&show_icons=true&theme=radical&count_private=true"
-       alt="Saptami's GitHub Stats" />
-
-  <!-- Contribution streak -->
-  <img width="48%"
-       src="https://github-stats.omsimos.com/api/streak?username=Saptami191&theme=radical"
-       alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <!-- Top languages -->
-  <img 
-    src="https://github-stats.omsimos.com/api/top-langs?username=Saptami191&theme=radical&layout=compact"
-    width="400px"
-    alt="Top Languages" />
-</p>
+### 📊 GitHub Activity <p align="center"> <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Saptami191&show_icons=true&theme=radical&hide_border=true" /> <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Saptami191&theme=radical&hide_border=true" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saptami191&layout=compact&theme=radical&hide_border=true" width="400px"/> </p>
 
 
 
-### 🛠️ My Projects
 
-<a href="https://github.com/Saptami191/Stacklt" target="_blank">  
-  <img alt="stacklt" src="https://img.shields.io/badge/Stacklt-Developer_Q%26A-blue?style=for-the-badge" height="68" align="left">  
-</a>
-
-<a href="https://github.com/your-repo-here" target="_blank">  
-  <img alt="smartremit" src="https://img.shields.io/badge/SmartRemit-ML%20Backend-green?style=for-the-badge" height="68" align="left">  
-</a>
-
-<a href="https://github.com/your-repo-here" target="_blank">  
-  <img alt="ledger" src="https://img.shields.io/badge/Offline_Ledger-PWA-orange?style=for-the-badge" height="68" align="left">  
-</a>
 
