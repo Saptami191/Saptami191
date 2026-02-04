@@ -1,32 +1,57 @@
-<h1 align="center">Hi 👋, I'm <b>Saptami Biswas</b></h1>
-<h3 align="center">Full-Stack Developer • Backend Engineer • ML Aspirant</h3>
+## Hey 👋, I'm Saptami Biswas!
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Saptami191&label=Profile%20views&color=0e75b6&style=flat-square" />
-  <img src="https://img.shields.io/github/followers/Saptami191?label=Followers&style=flat-square&color=blue" />
-</p>
+<a href='https://www.linkedin.com/in/saptami-biswas'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height='18px'/></a>
+<a href='https://x.com/SaptamiBis76657'><img align='left' alt="twitter" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/twitter.svg" height='18px'/></a>
+<a href='https://medium.com/@biswassaptami191'><img alt="medium" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/kaggle.svg" height='18px'/></a>
 
----
+I am a **backend-focused full-stack developer** who enjoys building scalable systems, clean APIs, and data-driven applications. I switch between **Backend Engineering 🌐 and Machine Learning 🤖** depending on what the project demands. I like exploring new tech and actually shipping things — not just collecting badges.  
+<br/>
+<br/>
 
-## 💫 About Me
-```yaml
-👩‍💻 Role: Full-Stack Developer with a backend focus  
-🔭 Building: Stacklt — a developer Q&A platform  
-🌱 Learning: System Design, Distributed Systems, Production ML  
-✍️ Writing: Technical blogs on Medium  
-🎯 Goal: Design scalable, reliable, and data-driven systems  
-🛠️ Tech Stack
-<p align="center"> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" /> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> <br/> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /> <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" /> <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" /> <br/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" /> </p>
-🚀 What I’m Building
-Stacklt — Full-stack Q&A platform with authentication, CRUD APIs, and MongoDB schema design.
+<img align="right" alt="GIF" src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="360px"/>
 
-SmartRemit (ML + Backend) — Real-time remittance route prediction using Random Forest + Node.js.
+### 🧐 More About Me:
 
-Offline Ledger PWA — IndexedDB-based digital ledger with offline-first sync.
+- 🔭 &nbsp; I’m currently working on **Stacklt** — a developer Q&A platform  
+- 🤝 &nbsp; I’m open to collaborating on backend, ML, or open-source projects  
+- 🌱 &nbsp; I’m currently learning **System Design & Production ML**  
+- 👩🏻‍💻 &nbsp; Most of my projects are on [GitHub](https://github.com/Saptami191?tab=repositories)  
+- ✍️ &nbsp; I write technical blogs on [Medium](https://medium.com/@biswassaptami191)  
+- 💬 &nbsp; Ask me about backend systems, APIs, or ML pipelines  
+- 📫 &nbsp; Reach me on [LinkedIn](https://www.linkedin.com/in/saptami-biswas)  
+- 📝 &nbsp; (Add your resume link here when ready — don’t share a random one)
 
-(If these aren’t fully real yet, say so — don’t overclaim.)
+<br>
 
-📊 GitHub Activity
-<p align="center"> <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Saptami191&show_icons=true&theme=radical&hide_border=true&count_private=true" /> <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Saptami191&theme=radical&hide_border=true" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saptami191&layout=compact&theme=radical&hide_border=true&count_private=true" width="400px"/> </p>
-🤝 Let’s Connect
-<p align="center"> <a href="mailto:biswassaptami191@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"> </a> <a href="https://www.linkedin.com/in/saptami-biswas"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"> </a> <a href="https://medium.com/@biswassaptami191"> <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"> </a> <a href="https://x.com/SaptamiBis76657"> <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"> </a> </p> <p align="center"> ⭐️ Built by <b><a href="https://github.com/Saptami191">Saptami191</a></b> </p> ```
+### 🔨 Languages and Tools:
+<a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg"></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="left" alt="JavaScript" height ="42px"  src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/javascript/javascript.svg"> </a>
+<a href="https://nodejs.org" target="_blank"><img align="left" alt="Node.js" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/node/node.svg"></a>
+<a href="https://expressjs.com/" target="_blank"> <img align="left" alt="Express" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/express/express.svg"></a>
+<a href="https://www.mongodb.com/" target="_blank"> <img align="left" alt="MongoDB" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/mongodb/mongodb.svg"> </a>
+<a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg" align="left" alt="git" height='42px'/> </a>
+<a href="https://code.visualstudio.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/vscode/vscode.svg" alt="vscode" height='42px'/> </a>
+
+<br>
+
+### 📊 GitHub Stats
+
+![Stats Overview](https://github-readme-stats.vercel.app/api?username=Saptami191&show_icons=true&theme=radical&hide_border=true&count_private=true)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Saptami191&layout=compact&theme=radical&hide_border=true&count_private=true)
+
+<br>
+
+### 🛠️ My Projects
+
+<a href="https://github.com/Saptami191/Stacklt" target="_blank">  
+  <img alt="stacklt" src="https://img.shields.io/badge/Stacklt-Developer_Q%26A-blue?style=for-the-badge" height="68" align="left">  
+</a>
+
+<a href="https://github.com/your-repo-here" target="_blank">  
+  <img alt="smartremit" src="https://img.shields.io/badge/SmartRemit-ML%20Backend-green?style=for-the-badge" height="68" align="left">  
+</a>
+
+<a href="https://github.com/your-repo-here" target="_blank">  
+  <img alt="ledger" src="https://img.shields.io/badge/Offline_Ledger-PWA-orange?style=for-the-badge" height="68" align="left">  
+</a>
+
