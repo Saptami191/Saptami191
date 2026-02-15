@@ -2,10 +2,10 @@
 <h3 align="center">Full-Stack Developer | MLEnthusiast</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=gadgetguru04&label=Profile%20Views&color=0e75b6&style=flat" alt="Saptami191" />
+  <img src="https://komarev.com/ghpvc/?username=Saptami191&label=Profile%20Views&color=0e75b6&style=flat" alt="Saptami191" />
 </p>
 
-<img align="right" alt="coding" width="400" src="https://github.com/GadgetGuru04/GadgetGuru04/assets/142078805/83e2b8d8-1250-4728-b1cf-b666e976f4c9" />
+<img align="right" alt="coding" width="400" src="https://github.com/Saptami191/Saptami191&/assets/142078805/83e2b8d8-1250-4728-b1cf-b666e976f4c9" />
 
 ---
 
@@ -30,8 +30,8 @@
 
 <h3 align="left">📈 GitHub Stats</h3>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gadgetguru04&show_icons=true&theme=dracula&hide_border=false" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gadgetguru04&layout=compact&langs_count=10&theme=dracula&hide_border=false" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Satami191&show_icons=true&theme=dracula&hide_border=false" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Satami191&layout=compact&langs_count=10&theme=dracula&hide_border=false" height="150" />
 </div>
 
 <p align="center">
