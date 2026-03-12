@@ -65,7 +65,7 @@ Build real things. Solve real problems. Learn by shipping.
 ## 📫 Opportunities
 
 Currently interested in:
-- **Software Engineering Internships**
+- **Software Engineering Role**
 - **Backend Development Roles**
 - **Machine Learning Systems**
 ---
