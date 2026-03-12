@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Saptami Biswasr</h1>
+<h1 align="center">Hi 👋, I'm Saptami Biswas</h1>
 <h3 align="center">Machine Learning & Backend Systems | Open Source Contributor</h3>
 
 <p align="center">
