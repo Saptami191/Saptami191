@@ -11,7 +11,7 @@
 
 🚀 **Currently Building**
 
-- **SmartRemit** – AI-powered remittance optimization platform using ML for route prediction and currency rate forecasting  
+- **SmartRemit** –  AI-powered remittance optimization platform using ML for route prediction and currency rate forecasting  
 
 🧠 **Technical Focus**
 
