@@ -1,71 +1,113 @@
-<h1 align="center">Hi 👋, I'm Saptami </h1>
-<h3 align="center">Machine Learning & Backend Systems | Open Source Contributor</h3>
+<h1 align="center">Hi 👋 I'm Saptami</h1>
+<h3 align="center">Machine Learning Systems • Backend Engineering • Open Source</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Saptami191&label=Profile%20Views&color=0e75b6&style=flat" alt="Saptami191" />
+Building scalable systems and ML-powered applications.
 </p>
-
-<img align="right" alt="coding" width="400" src="https://github.com/Saptami191/Saptami191/assets/142078805/83e2b8d8-1250-4728-b1cf-b666e976f4c9" />
-
----
-
-🚀 **Currently Building**
-
-- **SmartRemit** –  AI-powered remittance optimization platform using ML for route prediction and currency rate forecasting  
-
-🧠 **Technical Focus**
-
-- Machine Learning pipelines and model deployment  
-- Backend systems (Node.js, APIs, databases)  
-- Graph-based ML and weather modeling research  
-
-🌱 **Currently Exploring**
-
-- React for modern frontend interfaces  
-- Linux internals and system-level debugging  
-- Model optimization and scalable inference  
----
-
-💬 **Ask Me About**
-
-- C++ / Python development  
-- Backend architecture and APIs  
-- Machine learning workflows and experimentation  
-
----
-
-
-
----
-
-<h3 align="left">🛠️ Languages & Tools</h3>
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,python,django,dotnet,php,javascript,html,css,react,tailwind,figma,mysql,sqlite,git,linux,docker,postman,gcp,photoshop,tensorflow,electron,arduino,androidstudio,blender" />
-</p>
-
----
-
-<h3 align="left">📈 GitHub Stats</h3>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Satami191&show_icons=true&theme=dracula&hide_border=false" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Satami191&layout=compact&langs_count=10&theme=dracula&hide_border=false" height="150" />
-</div>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Saptami191&theme=dracula&hide_border=false" />
+  <img src="https://komarev.com/ghpvc/?username=Saptami191&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
+</p>
+
+<img align="right" alt="coding" width="380" src="https://github.com/Saptami191/Saptami191/assets/142078805/83e2b8d8-1250-4728-b1cf-b666e976f4c9" />
+
+---
+
+# 🚀 Current Work
+
+### SmartRemit
+AI-powered remittance optimization platform.
+
+Key ideas:
+- Predict best remittance routes using ML
+- Forecast currency exchange rate movement
+- Reduce transfer cost and time using intelligent routing
+
+Tech Stack:
+`Python` `ML Models` `Node.js APIs` `Docker` `Cloud Deployment`
+
+---
+
+# 🧠 Technical Interests
+
+- Machine Learning pipelines
+- Model deployment & scalable inference
+- Backend architecture & distributed APIs
+- Graph-based ML research
+- Weather modeling systems
+
+---
+
+# 🌱 Currently Learning
+
+- React for production-grade frontends
+- Linux internals & debugging
+- Model optimization and inference acceleration
+
+---
+
+# 💬 Ask Me About
+
+- Python / C++
+- Backend systems and APIs
+- Machine learning workflows
+- Experimentation and model evaluation
+
+---
+
+# 🛠 Tech Stack
+
+**Languages**
+
+`Python` `C++` `Java` `JavaScript` `C#`
+
+**Backend**
+
+`Node.js` `Django` `.NET` `REST APIs`
+
+**ML / Data**
+
+`TensorFlow` `ML Pipelines`
+
+**Frontend**
+
+`React` `HTML` `CSS` `Tailwind`
+
+**Tools**
+
+`Git` `Docker` `Linux` `GCP` `Postman`
+
+**Databases**
+
+`MySQL` `SQLite`
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Saptami191&show_icons=true&theme=dracula" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saptami191&layout=compact&theme=dracula" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Saptami191&theme=dracula"/>
 </p>
 
 ---
 
-## ⭐ Philosophy
-Build real things. Solve real problems. Learn by shipping.
+# ⭐ Philosophy
+
+> Build real things.  
+> Solve real problems.  
+> Learn by shipping.
 
 ---
 
-## 📫 Opportunities
+# 📫 Opportunities
 
-Currently interested in:
-- **Software Engineering Role**
-- **Backend Development Roles**
-- **Machine Learning Systems**
----
+Open to:
+
+• Software Engineering Roles  
+• Backend Engineering Roles  
+• Machine Learning Systems Roles  
