@@ -2,7 +2,7 @@
 <h3 align="center">Machine Learning Systems • Backend Engineering • Open Source</h3>
 
 <p align="center">
-Building scalable systems and ML-powered applications.
+Building scalable systems and ML-powered applications
 </p>
 
 <p align="center">
