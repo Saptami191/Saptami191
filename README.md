@@ -15,7 +15,7 @@ Building scalable systems and ML-powered applications
 
 # 🚀 Current Work
 
-### SmartRemit
+### SmartRemit Project
 AI-powered remittance optimization platform.
 
 Key ideas:
