@@ -20,7 +20,7 @@
 
 ---
 
-## 🚀 Featured Project: [SmartRemit](https://github.com/Saptami191/Smart-Remittance-App)
+## 🚀 Featured Project: [Smart-Remittance-App](https://github.com/Saptami191/Smart-Remittance-App)
 **AI-powered remittance optimization system**
 
 A backend-first system that predicts optimal money transfer routes using ML + real-time data.
