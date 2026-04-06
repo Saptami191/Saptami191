@@ -1,85 +1,81 @@
 <h1 align="center">Hi 👋 I'm Saptami</h1>
-<h3 align="center">Machine Learning Systems • Backend Engineering • Open Source</h3>
+<h3 align="center">Backend Engineer • ML Systems Builder</h3>
 
 <p align="center">
-Building scalable systems and ML-powered applications
+I build systems that actually run in production — not just notebooks.
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Saptami191&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=Saptami191&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 <img align="right" alt="coding" width="380" src="https://github.com/Saptami191/Saptami191/assets/142078805/83e2b8d8-1250-4728-b1cf-b666e976f4c9" />
 
 ---
 
-# 🚀 Current Work
+# 🚀 Featured Project
 
-### SmartRemit Project
-AI-powered remittance optimization platform.
+## SmartRemit — AI-powered remittance optimization system
 
-Key ideas:
-- Predict best remittance routes using ML
-- Forecast currency exchange rate movement
-- Reduce transfer cost and time using intelligent routing
+A backend-first system that predicts optimal money transfer routes using ML + real-time data.
 
-Tech Stack:
-`Python` `ML Models` `Node.js APIs` `Docker` `Cloud Deployment`
+### What it actually does:
+
+* Selects cheapest + fastest remittance routes using trained models
+* Forecasts currency movement for better timing decisions
+* Exposes predictions via REST APIs for real-time usage
+
+### System Architecture:
+
+* ML models served via Python microservice
+* Node.js backend handles API orchestration
+* MongoDB for transaction + route data
+* Dockerized for deployment
+
+### Current Status:
+
+* ✅ ML model working
+* ✅ API integration done
+* ⚠️ Database reliability issues (MongoDB auth + connection handling)
+* 🚧 Improving production readiness
+
+👉 Repo: https://github.com/Saptami191/Smart-Remittance-App
 
 ---
 
-# 🧠 Technical Interests
+# 🧠 What I Actually Work On
 
-- Machine Learning pipelines
-- Model deployment & scalable inference
-- Backend architecture & distributed APIs
-- Graph-based ML research
-- Weather modeling systems
+* Designing backend systems that scale beyond local setups
+* Taking ML models from notebook → API → production
+* Debugging real-world failures (auth, infra, latency)
+* Building end-to-end systems, not isolated features
 
 ---
 
-# 🌱 Currently Learning
+# 🌱 Currently Fixing / Learning
 
-- React for production-grade frontends
-- Linux internals & debugging
-- Model optimization and inference acceleration
+* Fixing DB failures and auth issues in distributed systems
+* Production-grade deployment (Docker + cloud)
+* Model inference optimization (latency + cost)
+* React (only for integration, not focus)
 
 ---
 
 # 💬 Ask Me About
 
-- Python / C++
-- Backend systems and APIs
-- Machine learning workflows
-- Experimentation and model evaluation
+* Turning ML models into APIs
+* Backend debugging (things breaking in production)
+* System design for small-to-medium scale apps
 
 ---
 
-# 🛠 Tech Stack
+# 🛠 Tech (Used in Projects, Not Just Listed)
 
-**Languages**
-
-`Python` `C++` `Java` `JavaScript` `C#`
-
-**Backend**
-
-`Node.js` `Django` `.NET` `REST APIs`
-
-**ML / Data**
-
-`TensorFlow` `ML Pipelines`
-
-**Frontend**
-
-`React` `HTML` `CSS` `Tailwind`
-
-**Tools**
-
-`Git` `Docker` `Linux` `GCP` `Postman`
-
-**Databases**
-
-`MySQL` `SQLite`
+**Backend:** Node.js, Django, REST APIs
+**ML:** Python, TensorFlow, model serving
+**Databases:** MongoDB, MySQL
+**Infra:** Docker, Linux, GCP
+**Languages:** Python, C++, JavaScript
 
 ---
 
@@ -98,16 +94,21 @@ Tech Stack:
 
 # ⭐ Philosophy
 
-> Build real things.  
-> Solve real problems.  
-> Learn by shipping.
+* Build → Break → Fix → Scale
+* If it’s not deployed, it doesn’t count
+* If it doesn’t fail, you didn’t push far enough
 
 ---
 
 # 📫 Opportunities
 
-Open to:
+Looking for:
 
-• Software Engineering Roles  
-• Backend Engineering Roles  
-• Machine Learning Systems Roles  
+* Backend Engineering Roles
+* ML Systems / Applied ML Roles
+
+Not looking for:
+
+* Pure frontend roles
+* Tutorial-level work
+
