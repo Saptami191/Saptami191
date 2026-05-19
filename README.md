@@ -1,79 +1,82 @@
-<h1 align="center">Hi 👋 I'm Coder girl</h1>
-<h3 align="center">Backend Engineer • ML Systems Builder</h3>
+<h1 align="center">Hi 👋 I'm Saptami </h1>
+<h3 align="center">Backend Systems & Machine Learning Infrastructure Engineer</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Saptami191&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Saptami191&label=PROFILE%20VIEWS&color=0e75b6&style=for-the-badge" alt="Profile Views" />
 </p>
 
 <p align="center">
-  <strong>I build systems that actually run in production — not just notebooks.</strong>
+  <strong>I build scalable backend infrastructure and robust ML production systems designed for reliability and uncertainty handling.</strong>
 </p>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Saptami191&show_icons=true&theme=tokyonight&count_private=true" alt="Saptami's GitHub Stats" height="170" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Saptami191&theme=tokyonight&hide_border=true" alt="Saptami's GitHub Streak" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Saptami191&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="Saptami's GitHub Stats" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Saptami191&theme=tokyonight&hide_border=true" alt="Saptami's GitHub Streak" height="180" />
 </div>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saptami191&layout=compact&theme=tokyonight&hide=html,css" alt="Top Languages" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saptami191&layout=compact&theme=tokyonight&hide=html,css,scss" alt="Top Languages" width="400" />
 </p>
 
----
-
-## 🚀 Featured Project: [Smart-Remittance-App](https://github.com/Saptami191/Smart-Remittance-App)
-**AI-powered remittance optimization system**
-
-A backend-first system that predicts optimal money transfer routes using ML + real-time data.
-
-* **Core Logic:** Selects cheapest + fastest routes using trained models and currency forecasting.
-* **Architecture:** Python ML microservice + Node.js API orchestration + MongoDB.
-* **Infrastructure:** Fully Dockerized for environment parity.
-
-> [!CAUTION]
-> **Current Sprint:** Resolving MongoDB authentication failures and connection pooling issues in distributed environments.
 
 ---
 
-## 🛠 Tech Stack (Project-Tested)
+## 📌 Research & Open Source Footprint
 
-| Category | Tools & Languages |
+### 🔷 **Neural-LAM (Global Climate AI)**
+* Architecting a modular **GraphBuilder framework** to decouple graph topology from dataset structures, enabling Graph Neural Networks (GNNs) to generalize across irregular spatial coordinate grids.
+* **Core Systems Optimization:** Implemented kNN, Delaunay triangulation, and proximity graph generation pipelines to minimize inference variance. Reduced graph construction complexity from $O(N^2)$ to $O(E)$ for scalable training.
+* **CI Pipeline Architecture:** Resolved runtime testing constraints by introducing lazy dataset initialization during test collection, enabling stable offline environments.
+* **Numerical Precision & Configuration:** Investigating floating-point precision anomalies in time-handling logic and designing path-based graph resolution configurations.
+
+### 🔷 **Wagtail CMS (Django Enterprise Ecosystem)**
+* **Core Architecture Documentation:** Upgraded internal technical documentation for the enterprise `ReferenceIndex` system to improve developer velocity.
+* **UI System Reliability:** Fixed layout constraints and component overflow issues handling highly dynamic, deeply nested label lengths.
+
+### 🔷 **Hushh-Research (Privacy-Preserving AI)**
+* **Auth Infrastructure Refactor:** Overhauled authentication exception flows to properly classify and map internal system errors into RFC-compliant HTTP status streams (401/403/500).
+
+---
+
+## 🚀 Strategic Engineering Work
+
+### 🏦 [SmartRemit | Real-Time ML Financial Optimization](https://github.com/Saptami191/Smart-Remittance-App)
+**The System:** An AI-assisted routing pipeline built to forecast cross-border transaction optimization and routing.
+* **Engineering Insight:** Analyzed how minute model prediction variations cascade into financially damaging errors under market spikes. Designed granular fallback validation checkpoints to absorb upstream latency and data variance securely.
+* **Stack:** Python, Node.js, Scikit-learn, Flask, MongoDB, SQL
+
+### 🫁 [Pneumonia Detection CNN | Diagnostics under Distribution Shifts](https://github.com/Saptami191/Pneumonia-detection-from-X-Ray)
+**The System:** End-to-end medical image classification platform offering deterministic streaming inference.
+* **Engineering Insight:** Isolated prediction instabilities caused by subtle input image resolution changes across varied hardware systems. Engineered a robust, uniform tensor normalization layer to eliminate output prediction drift.
+* **Stack:** TensorFlow, OpenCV, Streamlit, NumPy
+
+### 📖 [DailyGeeta-AI | Context-Grounded RAG Architecture](https://daily-geeta-ai.vercel.app/)
+**The System:** Context-grounded LLM query interface designed around deep philosophical text embeddings.
+* **Engineering Insight:** Defeated classic generative hallucinations by implementing a strict multi-step vector retrieval strategy alongside absolute system boundaries and tailored conversation token-saving states.
+* **Stack:** Python, LangChain, OpenAI API, Vercel
+
+---
+
+## 🛠 Project-Tested Technical Stack
+
+| Category | Tools & Technologies |
 | :--- | :--- |
-| **Languages** | ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) |
-| **Backend** | ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white) ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white) ![REST](https://img.shields.io/badge/-REST%20APIs-blue?style=flat) |
-| **ML & Data** | ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white) |
-| **Infra** | ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white) ![GCP](https://img.shields.io/badge/-GCP-4285F4?style=flat&logo=google-cloud&logoColor=white) ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black) |
+| **Languages** | ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) |
+| **Backend Frameworks** | ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white) ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white) ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white) |
+| **ML & Data Infrastructure** | ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) |
+| **DevOps & Cloud** | ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![GCP](https://img.shields.io/badge/-GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white) ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black) |
 
 ---
 
-## 🧠 Focus Areas
-* **Production ML:** Moving models from research-grade notebooks to high-availability APIs.
-* **System Resilience:** Debugging real-world failures (latency, auth, state management).
-* **Scalable Backend:** Designing systems that don't just work on `localhost`.
+## 📬 Let's Scale Your Infrastructure
+I focus on structural performance and data integrity—building code that survives real-world workloads, not just ideal conditions. If you're looking for an engineer who handles systems, failure modes, and algorithmic accuracy with equal precision, let's talk.
 
-## ⭐ Philosophy
-* **Build → Break → Fix → Scale.**
-* If it’s not deployed, it doesn't count.
-* If it doesn't fail, you didn't push far enough.
+* 📧 Email: **nitianhelpdex100@gmail.com**
 
----
-
-## 📫 Let's Connect
-* **Looking for:** Backend Engineering or ML Systems / MLOps roles.
-* **Ask me about:** Turning models into APIs, Dockerizing microservices, or system design.
-
-<p align="left">
-  <a href="https://github.com/Saptami191">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://medium.com/@YOUR_MEDIUM_USERNAME">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
-  </a>
-</p>
 
 ---
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Daily Quote" />
 </p>
+
+
