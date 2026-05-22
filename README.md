@@ -67,7 +67,6 @@
 | **DevOps & Cloud** | ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![GCP](https://img.shields.io/badge/-GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white) ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black) |
 
 ---
-
 ## 📬 Let's Scale Your Infrastructure
 I focus on structural performance and data integrity—building code that survives real-world workloads, not just ideal conditions. If you're looking for an engineer who handles systems, failure modes, and algorithmic accuracy with equal precision, let's talk.
 
