@@ -57,7 +57,7 @@
 
 ---
 
-## 🛠 Project-Tested Technical Stack
+## 🛠 Project-Tested  Technical Stack
 
 | Category | Tools & Technologies |
 | :--- | :--- |
@@ -68,7 +68,7 @@
 
 ---
 ## 📬 Let's Scale Your Infrastructure
-I focus on structural performance and data integrity—building code that survives real-world workloads, not just ideal conditions. If you're looking for an engineer who handles systems, failure modes, and algorithmic accuracy with equal precision, let's talk.
+I focus  on structural performance and data integrity—building code that survives real-world workloads, not just ideal conditions. If you're looking for an engineer who handles systems, failure modes, and algorithmic accuracy with equal precision, let's talk.
 
 * 📧 Email: **nitianhelpdex100@gmail.com**
 
