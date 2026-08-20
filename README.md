@@ -10,8 +10,13 @@
 </p>
 
 <div align="center">
-  <!-- Live GitHub Streak & Total Contributions (Updated Demolab API) -->
-  <img src="https://streak-stats.demolab.com?user=Saptami191&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="180" />
+  <!-- <!-- Live GitHub Streak & Total Contributions (Updated Demolab API) -->
+  <img src="https://streak-stats.demolab.com?user=Saptami191&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="180" /> -->
+
+  <div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Saptami191&theme=tokyonight&name=Shoko" alt="Shoko's Detailed Contributions" height="180" />
+  <!-- <img src="https://streak-stats.demolab.com?user=Saptami191&theme=tokyonight&hide_border=true&card_width=450" alt="Shoko's GitHub Streak" height="180" />
+</div> -->
 
   <!-- Live GitHub Stats (Title Removed, All Commits + Private Counted) -->
   <img src="https://github-readme-stats.vercel.app/api?username=Saptami191&show_icons=true&theme=tokyonight&hide_title=true&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800" alt="GitHub Stats" height="180" />
