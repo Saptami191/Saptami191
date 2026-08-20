@@ -1,23 +1,26 @@
 <!-- <h1 align="center">Hi 👋 I'm Saptami </h1> -->
-<h3 align="center">Backend Systems &  Machine Learning Infrastructure Engineer</h3>
+<h3 align="center">Backend Systems & Machine Learning Infrastructure Engineer</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Saptami191&label=PROFILE%20VIEWS&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Saptami191&label=PROFILE%20VIEWS&color=0e75b6&style=for-the-badge" alt="Profile Views" />
 </p>
 
 <p align="center">
-  <strong>I build scalable backend infrastructure and robust ML production systems designed for reliability and uncertainty handling.</strong>
+  <strong>I build scalable backend infrastructure and robust ML production systems designed for reliability and uncertainty handling.</strong>
 </p>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Saptami191&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="Saptami's GitHub Stats" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Saptami191&theme=tokyonight&hide_border=true" alt="Saptami's GitHub Streak" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Saptami191&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&cache_seconds=1800" alt="Saptami's GitHub Stats" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Saptami191&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Saptami's GitHub Streak" height="180" />
 </div>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saptami191&layout=compact&theme=tokyonight&hide=html,css,scss" alt="Top Languages" width="400" />
-</p> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saptami191&layout=compact&theme=tokyonight&hide=html,css,scss&cache_seconds=1800" alt="Top Languages" width="400" />
+</p>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Saptami191&theme=tokyo-night&area=true&hide_border=true" alt="Saptami's Contribution Graph" width="95%" />
+</p>
 
 ---
 
@@ -57,7 +60,7 @@
 
 ---
 
-## 🛠 Project-Tested  Technical Stack
+## 🛠 Project-Tested Technical Stack
 
 | Category | Tools & Technologies |
 | :--- | :--- |
@@ -68,14 +71,11 @@
 
 ---
 ## 📬 Let's Scale Your Infrastructure
-I focus  on structural performance and data integrity—building code that survives real-world workloads, not just ideal conditions. If you're looking for an engineer who handles systems, failure modes, and algorithmic accuracy with equal precision, let's talk.
+I focus on structural performance and data integrity—building code that survives real-world workloads, not just ideal conditions. If you're looking for an engineer who handles systems, failure modes, and algorithmic accuracy with equal precision, let's talk.
 
 📧 **[Email](mailto:nitianhelpdex100@gmail.com)**
-
 
 ---
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Daily Quote" />
 </p>
-
-
