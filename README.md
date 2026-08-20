@@ -10,9 +10,16 @@
 </p>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Saptami191&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&cache_seconds=1800" alt="Saptami's GitHub Stats" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Saptami191&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Saptami's GitHub Streak" height="180" />
+  <!-- Live GitHub Streak & Total Contributions (Updated Demolab API) -->
+  <img src="https://streak-stats.demolab.com?user=Saptami191&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="180" />
+
+  <!-- Live GitHub Stats (Title Removed, All Commits + Private Counted) -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Saptami191&show_icons=true&theme=tokyonight&hide_title=true&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800" alt="GitHub Stats" height="180" />
 </div>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saptami191&layout=compact&theme=tokyonight&hide=html,css,scss&hide_title=true&hide_border=true&cache_seconds=1800" alt="Top Languages" width="380" />
+</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saptami191&layout=compact&theme=tokyonight&hide=html,css,scss&cache_seconds=1800" alt="Top Languages" width="400" />
